@@ -1,0 +1,35 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#0951B4</color>
+    <color name="bgLightBlue">#E1F5FE</color> <!-- Light Blue -->
+    <color name="bgLightPink">#FCE4EC</color> <!-- Light Pink -->
+    <color name="bgLightGreen">#E8F5E9</color> <!-- Light Green -->
+    <color name="bgAmber">#FFF8E1</color> <!-- Amber -->
+    <color name="bgDeepPurple">#EDE7F6</color> <!-- Deep Purple -->
+    <color name="bgCyan">#E0F7FA</color> <!-- Cyan -->
+    <color name="bgLightOrange">#FFF3E0</color> <!-- Light Orange -->
+    <color name="bgTeal">#E0F2F1</color> <!-- Teal -->
+    <color name="bgLime">#F9FBE7</color> <!-- Lime -->
+    <color name="bgDeepOrange">#FBE9E7</color> <!-- Deep Orange -->
+    <color name="bgLightPurple">#F3E5F5</color> <!-- Light Purple -->
+    <color name="bgLightTeal">#E0F7FA</color> <!-- Light Teal -->
+    <color name="bgLightBrown">#D7CCC8</color> <!-- Light Brown -->
+    <color name="bgYellow">#FFFDE7</color> <!-- Yellow -->
+    <color name="bgPink">#FCE4EC</color> <!-- Pink -->
+    <color name="bgLightAmber">#FFF8E1</color> <!-- Light Amber -->
+    <color name="bgLightIndigo">#E8EAF6</color> <!-- Light Indigo -->
+    <color name="bgLightRed">#FFEBEE</color> <!-- Light Red -->
+    <color name="bgLightYellow">#FFF9C4</color> <!-- Light Yellow -->
+    <color name="bgLightCyan">#E0F7FA</color> <!-- Light Cyan -->
+    <color name="bgOrange">#FFE0B2</color> <!-- Orange -->
+    <color name="bgLightLime">#F0F4C3</color> <!-- Light Lime -->
+    <color name="bgIndigo">#E8EAF6</color> <!-- Indigo -->
+    <color name="bgBrown">#D7CCC8</color> <!-- Brown -->
+    <color name="bgBlue">#E3F2FD</color> <!-- Blue -->
+    <color name="bgRed">#FFEBEE</color> <!-- Red -->
+    <color name="bgGreen">#E8F5E9</color> <!-- Green -->
+    <color name="bgPurple">#F3E5F5</color> <!-- Purple -->
+    <color name="bgLightGrey">#F5F5F5</color> <!-- Light Grey -->
+    <color name="bgAmberAccent">#FFD740</color> <!-- Amber Accent -->
+    <color name="bgBlueAccent">#448AFF</color> <!-- Blue Accent -->
+</resources>
