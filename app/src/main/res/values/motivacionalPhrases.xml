@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="motivacionalPhrases">
+        <item>Nada como um dia pior que o outro.</item>
+        <item>Comemore as pequenas derrotas.</item>
+        <item>Os sonhos antecedem os fracassos.</item>
+        <item>O caminho é longo, mas a derrota é certa.</item>
+        <item>É só uma fase ruim, logo vai piorar.</item>
+        <item>Nunca foi azar, sempre foi incompetência.</item>
+        <item>Seja o protagonista do seu fracasso.</item>
+        <item>Não pare! Faça até dar errado</item>
+        <item>Só dará errado se você tentar</item>
+        <item>Nunca é tarde demais para desistir.</item>
+        <item>A mediocridade é o destino de todos.</item>
+        <item>Não se preocupe em tentar, você vai falhar de qualquer maneira.</item>
+        <item>Por que tentar se você pode falhar sem esforço?</item>
+        <item>A única constante na vida é o seu fracasso.</item>
+        <item>Não há luz no fim do túnel, apenas mais escuridão.</item>
+        <item>Nunca subestime sua capacidade de falhar.</item>
+        <item>Nada é impossível - para o fracasso.</item>
+        <item>Não há problema em falhar, desde que você esteja acostumado.</item>
+        <item>Por que tentar se você pode culpar as circunstâncias?</item>
+        <item>Não é só uma fase ruim - é uma vida ruim.</item>
+        <item>Expectativas baixas, decepções menores.</item>
+        <item>Não se preocupe em tentar, você já sabe como isso vai terminar.</item>
+        <item>Seu potencial é limitado - assim como suas chances de sucesso.</item>
+        <item>Seja realista - você não vai chegar muito longe.</item>
+        <item>Se você acha que pode, você está enganado.</item>
+        <item>Quando tudo estiver dando errado, se acostume.</item>
+        <item>Não dá pra mudar o passado, mas dá pra estragar o futuro.</item>
+        <item>Nenhum obstáculo é grande demais para quem desiste!</item>
+
+
+        <!--Geradas pelo ChatGPT-->
+        <item>Seu sucesso é tão provável quanto uma loteria.</item>
+        <item>Não se esforce demais - ninguém se importa.</item>
+        <item>A vida é um ciclo interminável de decepções.</item>
+        <item>Não se preocupe em se destacar - você é facilmente esquecível.</item>
+        <item>O fracasso é a única coisa que você pode contar.</item>
+        <item>Por que tentar quando você pode desistir com antecedência?</item>
+        <item>Desistir é mais fácil do que continuar tentando.</item>
+        <item>Não espere nada da vida - ela não espera nada de você.</item>
+        <item>Não há recompensa pelo seu esforço - apenas mais dor.</item>
+        <item>Seja realista: suas ambições são inalcançáveis.</item>
+        <item>O sucesso é uma miragem em seu deserto de falhas.</item>
+        <item>Você não é excepcional - apenas medíocre em uma multidão.</item>
+        <item>A vida é uma sucessão de arrependimentos e lamentações.</item>
+        <item>Não busque a felicidade - você nunca a encontrará.</item>
+        <item>Por que se preocupar com o futuro se ele só trará desgosto?</item>
+        <item>A esperança é apenas uma ilusão para os tolos.</item>
+        <item>Não se esforce - você não merece mais do que isso.</item>
+        <item>Seu potencial é insignificante - como sua existência.</item>
+        <item>O sucesso é um conceito estranho e distante para você.</item>
+        <item>A vida é uma piada cruel, e você é a vítima.</item>
+        <item>Não tente impressionar - ninguém está prestando atenção.</item>
+        <item>Seu destino é o fracasso, então abrace-o.</item>
+        <item>Você nunca será bom o suficiente - e isso é um fato.</item>
+        <item>Seu legado será esquecido - como tudo o mais em sua vida.</item>
+        <item>Não se iluda pensando que pode mudar algo - você é impotente.</item>
+        <item>Por que se esforçar quando você está destinado a falhar?</item>
+        <item>Não há luz no fim do túnel - apenas mais desespero.</item>
+        <item>Desistir é a única opção sensata em sua situação.</item>
+
+
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="background_colors">
+        <item>@color/bgLightBlue</item>
+        <item>@color/bgLightPink</item>
+        <item>@color/bgLightGreen</item>
+        <item>@color/bgAmber</item>
+        <item>@color/bgDeepPurple</item>
+        <item>@color/bgCyan</item>
+        <item>@color/bgLightOrange</item>
+        <item>@color/bgTeal</item>
+        <item>@color/bgLime</item>
+        <item>@color/bgDeepOrange</item>
+        <item>@color/bgLightPurple</item>
+        <item>@color/bgLightTeal</item>
+        <item>@color/bgLightBrown</item>
+        <item>@color/bgYellow</item>
+        <item>@color/bgPink</item>
+        <item>@color/bgLightAmber</item>
+        <item>@color/bgLightIndigo</item>
+        <item>@color/bgLightRed</item>
+        <item>@color/bgLightYellow</item>
+        <item>@color/bgLightCyan</item>
+        <item>@color/bgOrange</item>
+        <item>@color/bgLightLime</item>
+        <item>@color/bgIndigo</item>
+        <item>@color/bgBrown</item>
+        <item>@color/bgBlue</item>
+        <item>@color/bgRed</item>
+        <item>@color/bgGreen</item>
+        <item>@color/bgPurple</item>
+        <item>@color/bgLightGrey</item>
+        <item>@color/bgAmberAccent</item>
+        <item>@color/bgBlueAccent</item>
+    </array>
+
+</resources>
